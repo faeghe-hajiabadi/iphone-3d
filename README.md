@@ -33,9 +33,10 @@ Realistic Rendering: High-quality textures and lighting for a lifelike appearanc
 ## Tech Stack
 
 - **Frontend**:
- -Three.js: For rendering and animating 3D models.
 
--JavaScript: To build interactivity and handle events.
+Three.js: For rendering and animating 3D models.
+
+JavaScript: To build interactivity and handle events.
 
 -HTML5 & CSS3: For structuring and styling the application.
 
